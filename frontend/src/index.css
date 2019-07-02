@@ -1,0 +1,70 @@
+#menu, #content {
+    margin: 2% 2% 0 2%;
+}
+
+.card {
+    width: 30%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 2%;
+
+}
+
+#category-list {
+    float: left;
+    width: 30%;
+}
+
+#product-list {
+    float: right;
+    width: 70%;
+}
+
+#shop-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.checkboxcontainer {
+    width: 100% !important;
+}
+
+.nav-link {
+    cursor: pointer;
+}
+
+.login {
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+.align-middle {
+    margin: 0 auto !important;
+}
+
+.product-list-cart {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#alertMessage {
+    margin-bottom: 0!important;
+}
+
+#category-list > div > button {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.btn {
+    width: 100%;
+}
+.marginIt {
+    margin-left: 300px;
+}
